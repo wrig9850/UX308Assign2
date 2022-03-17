@@ -1,23 +1,33 @@
 {
-  "name": "Magic 8 Ball",
-  "short_name": "Magic",
+  "name": "Mason Wright Resume",
+  "short_name": "Resume",
   "icons": [
     {
-      "src": "img/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "img/android-chrome-512x512.png",
+      "src": "img/business_icon.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "img/maskable_icon.png",
-      "sizes": "196x196",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "src": "img/education_icon.png",
+      "sizes": "860x645",
+      "type": "image/png"
+    },
+    {
+      "src": "img/linkedin_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "img/resume_icon_large.png",
+      "sizes": "820x977",
+      "type": "image/png"
+    },
+    {
+      "src": "img/work_experience_icon.png",
+      "sizes": "860x776",
+      "type": "image/png"
     }
+      
   ],
   "lang": "en-US",
   "start_url": "index.html",
